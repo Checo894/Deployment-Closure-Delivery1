@@ -34,3 +34,7 @@ For this, we ran the following commands:
       main
 
 After this, we modify the Commit2 README.md to add all of these comments, and finally do a new commit (Commit7) to push and merge the changes into main.
+
+# FINAL RESULT
+
+![image](https://github.com/user-attachments/assets/bf38c00a-f414-4c49-8352-a36577311ed4)
