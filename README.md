@@ -4,6 +4,7 @@
 
 - Sergio E. Gutiérrez T.
 - Daniela Rocha Muñoz
+- Ana Karen Valencia Villaseñor
 
 ## Asigment description:
 
