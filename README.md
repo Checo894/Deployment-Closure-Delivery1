@@ -1,5 +1,10 @@
 # Deployment-Closure-Delivery1
 
+## MADE BY:
+
+- Sergio E. Gutiérrez T.
+- 
+
 ## Asigment description:
 
 Use Git and Github to implement the following pipeline denoting a version management and collaborative work model.
