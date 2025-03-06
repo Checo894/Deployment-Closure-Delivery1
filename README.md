@@ -3,7 +3,7 @@
 ## MADE BY:
 
 - Sergio E. Gutiérrez T.
-- 
+- Daniela Rocha Muñoz
 
 ## Asigment description:
 
