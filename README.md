@@ -6,6 +6,7 @@
 - Daniela Rocha Muñoz
 - Ana Karen Valencia Villaseñor
 - Emiliano Neaves Ortiz
+- Monica Escobedo Cota
 
 ## Asigment description:
 
