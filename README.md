@@ -7,6 +7,7 @@
 - Ana Karen Valencia Villaseñor
 - Emiliano Neaves Ortiz
 - Monica Escobedo Cota
+- Sebastián Cervera Maltos (sebis)
 
 ## Asigment description:
 
